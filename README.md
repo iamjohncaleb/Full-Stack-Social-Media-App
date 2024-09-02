@@ -1,25 +1,26 @@
-# React + TypeScript + Vite
-
-Certainly! Below is a sample `README.md` file for a Full-Stack Social Media App built with React, TypeScript, and Vite.
 
 ```markdown
 # Full-Stack Social Media App
 
-This repository contains the source code for a Full-Stack Social Media Application built using React, TypeScript, and Vite. The app allows users to create an account, post updates, follow other users, like and comment on posts, and more.
+  <div>
+    <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-## Table of Contents
+  <h3 align="center">Modern UI/UX website</h3>
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
-  - [Building the App](#building-the-app)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+</div>
 
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+7. 🚀 [More](#more)
 ## Features
 
 - **User Authentication:** Sign up, log in, and log out functionality.

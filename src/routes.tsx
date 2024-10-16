@@ -10,7 +10,6 @@
 
 
 
-
 import { createBrowserRouter } from "react-router-dom";
 import Login from "./pages/login";
 import Error from "./pages/error";
